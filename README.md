@@ -1,1 +1,1 @@
-# AyrikSistemler-cinOlasilik
+# Ayrık Sistemler İçin Olasılık
